@@ -1,0 +1,18 @@
+Changelog:
+
+Version 2;
+- Fast charging, safe version, stable temperature, not overheating
+
+Version 1:
+🔥Fast Charge⚡Version Green🍀
+- 1. ⚡2670mA / 16W⚡"
+- 2. ⚡3000mA / 18W⚡"
+- 3. ⚡3500mA / 21W⚡"
+- 4. ⚡4000mA / 24W⚡"
+- 5. ⚡4300mA / 25.6W⚡"
+- 6. ⚡4500mA / 27W⚡"
+- 7. ⚡5000mA / 30W⚡"
+
+- Note: Should choose the power version corresponding to the charger, you can also play super power, but the effect will not be better than the original support for high power
+
+- Source from friend 白话LHZ(China)
